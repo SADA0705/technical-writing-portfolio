@@ -11,3 +11,6 @@ Welcome! This repository serves as a professional portfolio showcasing my techni
 * **Editor:** Visual Studio Code (VS Code)
 * **Language:** Markdown (.md)
 * **Version Control:** GitHub
+  
+* *[Customizing the Windows Interface Safely: A Beginner's Guide to Windhawk](./windhawk_guide.md)*  
+  A step-by-step software installation and troubleshooting guide detailing how to safely utilize modular injection for OS desktop customization.
